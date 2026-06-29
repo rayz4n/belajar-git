@@ -5,6 +5,7 @@ Proyek latihan untuk mempelajari Git dan GitHub workflow.
 ## Tech Stack
 
 - HTML
+- github
 
 ## Cara Menjalankan
 
@@ -16,4 +17,4 @@ Proyek latihan untuk mempelajari Git dan GitHub workflow.
 
 ## Status
 
-Sedang dalam pengembangan aktif.
+Sedang dalam tahapan pembelajaran.
