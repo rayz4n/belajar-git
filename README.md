@@ -5,7 +5,6 @@ Proyek latihan untuk mempelajari Git dan GitHub workflow.
 ## Tech Stack
 
 - HTML
-- github
 
 ## Cara Menjalankan
 
